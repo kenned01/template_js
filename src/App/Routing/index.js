@@ -1,0 +1,6 @@
+const VIEWS = [
+
+]
+
+
+export {VIEWS};
